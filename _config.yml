@@ -77,7 +77,7 @@ content:
     content:
       - layout: left
         title: Por el momento no he trabajado 
-        link: boringcompany.com
+        link: Tirenparo.com
         # link_text: boringcompany.com
         sub_title: Espero algun dia tener una gran oportunidad
         caption: F
@@ -86,7 +86,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             En busca de un trabajo
 
-  - title: Education # Title for the section
+  - title: Educacion # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -100,14 +100,13 @@ content:
 
           CUCEI
 
-  - title: A Little More About Me
+  - title: Mas sobre mi 
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Algunas otras cosas interesantes sobre mi seria que:
+      - Me gusta cocinar
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - La musica me relaja
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
