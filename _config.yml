@@ -45,7 +45,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: Sobre mi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
    Hola mi nombre es Abraham Veloz soy un programador novato y espero algun dia tener la experiencia suficiente para tener un buen trabajo o trabajar por mi propia cuenta.
@@ -58,12 +58,12 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/AbrahamVeloz
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  AbrahamVeloz/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/AbrahamVeloz/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
